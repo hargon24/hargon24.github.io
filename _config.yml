@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hayahide Yamagishi"
   avatar           : "profile.png"
-  bio              : "Master's Student"
+  bio              : "Master's Student\nyamagishi-hayahide at ed.tmu.ac.jp"
   location         : "Tokyo Metropolitan Univ."
   employer         :
   googlescholar    : 
-  email            : "yamagishi-hayahide at ed.tmu.ac.jp"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,6 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "HayahideYamagishi"
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
