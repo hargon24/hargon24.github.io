@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 Hayahide YAMAGISHI  
-Natural Language Processing Lab. @Graduate School of System Design, Tokyo Metropolitan University  
+Natural Language Processing Lab. @Tokyo Metropolitan University  
 Master's Student  
 E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 
