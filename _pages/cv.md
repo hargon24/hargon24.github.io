@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: ""
+permalink: /English/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
+About me
+======
+Hayahide YAMAGISHI  
+Natural Language Processing Lab. @Graduate School of System Design, Tokyo Metropolitan University  
+Master's Student  
+E-mail: yamagishi-hayahide at ed.tmu.ac.jp
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- M.E., March 2019 (Expected)  
+  Graduate School of System Design, Tokyo Metropolitan University  
+  Supervisor: Mamoru Komachi
+- B.E., March 2017  
+  Faculty of System Design, Tokyo Metropolitan University  
+  Supervisor: Mamoru Komachi
 
-Work experience
+
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Natural Language Processing
+- Machine Translation
+- Machine Learing / Deep Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Development
+- Python3.x
+  - Chainer, numpy
+- ubuntu Linux, Mac OS X
+- vim
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Language
+- Japanese（Native）
+- English（TOEIC: 800）
