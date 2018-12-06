@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hayahide Yamagishi"
+title: ""
 excerpt: "Hayahide Yamagishi"
 author_profile: true
 redirect_from: 
@@ -10,10 +10,10 @@ redirect_from:
 
 About me
 ======
-- 名前: 山岸駿秀（やまぎしはやひで）
-- 所属: 首都大学東京 システムデザイン研究科 情報通信システム学域 / 小町研究室
-- 学年: 博士前期課程 2年
-
+山岸駿秀（Hayahide YAMAGISHI）  
+首都大学東京 システムデザイン研究科 情報通信システム学域 博士前期課程 2年  
+自然言語処理研究室（小町研究室）所属  
+E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 
 
 Getting started
