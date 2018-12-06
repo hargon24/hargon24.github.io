@@ -15,7 +15,7 @@ About me
 自然言語処理研究室（小町研究室）所属  
 E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 
-Academic Background
+Education
 ======
 - 2017/04 - 2019/03: 首都大学東京 システムデザイン研究科 情報通信システム学域
 - 2013/04 - 2017/03: 首都大学東京 システムデザイン学部 情報通信システムコース
