@@ -18,7 +18,7 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 
 # Education
 - 2017/04 - 2019/03: 首都大学東京 システムデザイン研究科 情報通信システム学域
-  - 修士論文: 『目的言語の文書文脈を用いたニューラル機械翻訳』
+  - 修士論文: 『目的言語の文書文脈を用いたニューラル機械翻訳』[Thesis] [Slide] [Code]
 - 2013/04 - 2017/03: 首都大学東京 システムデザイン学部 情報通信システムコース
   - 2016/04: 自然言語処理研究室（小町研究室）に配属
 
@@ -52,7 +52,7 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 - 2017/04 - 2017/06: プログラミングの基礎勉強会  
   NLPの研究を行うにあたって必要とされるプログラミング能力の基礎を身につけるための勉強会です。  
   [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)という教材を用いました。  
-  Pythonを用いたプログラミングを行い、私も含めた参加者のコードは全て公開しました。[\[Code\]](https://github.com/tmu-nlp/100knock2017)  
+  Pythonを用いたプログラミングを行い、私も含めた参加者のコードは全て公開しました。[[Code](https://github.com/tmu-nlp/100knock2017)]  
 
 ### Research Assistant  
 小町研究室の新配属者のメンターとなって研究補佐にあたりました。
@@ -68,7 +68,7 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 ### Talk
 1. 2018/12/14: @グローバルコミュニケーション開発推進協議会
 2. 2018/10/12: @AAMT/Japio特許翻訳研究会
-3. 2017/10/21: @関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [\[Slide\]](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)
+3. 2017/10/21: @関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
 
 ### Internship
 - 2017/09: [株式会社みらい翻訳](https://miraitranslate.com/)  
@@ -78,4 +78,4 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 - 2018/08/04 - 06: 理数研究ラボ（東京都教育委員会主催）  
   高校生に大学での研究活動や研究室生活を体験してもらうイベントでした。  
   小町研究室では、「ニューラル機械翻訳の研究」と題して、2018年当時の機械翻訳システムが内部でどのような処理を行っているのかを体験してもらいました。  
-  高校生が使用したコードはGoogle Colaboratory上で公開されています。[\[Code\]](https://goo.gl/KmQFLM)
+  高校生が使用したコードはGoogle Colaboratory上で公開されています。[[Code](https://goo.gl/KmQFLM)]
