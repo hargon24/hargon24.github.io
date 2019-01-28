@@ -31,3 +31,11 @@ All papers are written in **Japanese** and **non peer-reviewed**.
 10. 嶋中宏希, 山岸駿秀, 松村雪桜, 小町守. **クロスリンガルな単語分散表現を用いた機械翻訳自動評価手法の検討**. NLP若手の会（YANS）第12回シンポジウム. September 3, 2017. 
 11. 山岸駿秀, 叶内晨, 佐藤貴之, 小町守. **ニューラル日英翻訳における出力文の態制御**. 言語処理学会第23回年次大会, pp.1065-1068. March 16, 2017. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P20-1.pdf)] 
 12. 山岸駿秀, 佐藤貴之, 叶内晨, 小町守. **ニューラル日英翻訳における態の制御**. NLP若手の会（YANS）第11回シンポジウム. August 2016.
+
+Thesis
+======
+- 修士論文（Master's Thesis）
+  - タイトル: 目的言語の文書文脈を用いたニューラル機械翻訳
+  - Title: Neural Machine Translation with Target-side Context
+  - [Thesis] [Slide]
+
