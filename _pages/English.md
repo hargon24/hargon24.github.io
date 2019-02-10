@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 Hayahide YAMAGISHI  
-Natural Language Processing Lab. (a.k.a Komachi Lab.) @Tokyo Metropolitan University  
+Natural Language Processing Lab. (Komachi Lab.) @Tokyo Metropolitan University  
 Master's Student  
 E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 
@@ -49,7 +49,6 @@ Skills
 Activities
 ======
 ## Teaching Assistant
-
 - 2018/04 - 2018/06: Deep Learning in Natural Language Processing.
 - 2017/04 - 2017/06: Python for Natural Language Processing. [[Drill](http://www.cl.ecei.tohoku.ac.jp/nlp100/)] [[Code](https://github.com/tmu-nlp/100knock2017)]  
 
