@@ -35,7 +35,7 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 - Python3.x
   - Chainer, numpy
 - ubuntu Linux
-- vim, VSCode  
+- vim 
   
 ### 言語
 - 日本語（母語）
@@ -65,7 +65,7 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
   - [嶋中宏希](http://cl.sd.tmu.ac.jp/~shimanaka/)
 
 ### Talk
-1. 2018/12/14: @グローバルコミュニケーション開発推進協議会
+1. 2018/12/14: @NICT グローバルコミュニケーション開発推進協議会
 2. 2018/10/12: @AAMT/Japio特許翻訳研究会
 3. 2017/10/21: @関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
 
