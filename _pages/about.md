@@ -73,8 +73,13 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 - 2017/09: [株式会社みらい翻訳](https://miraitranslate.com/)  
   ニューラル機械翻訳の研究開発にあたりました。
 
-### Others
+### Events
 - 2018/08/04 - 06: 理数研究ラボ（東京都教育委員会主催）  
   高校生に大学での研究活動や研究室生活を体験してもらうイベントでした。  
   小町研究室では、「ニューラル機械翻訳の研究」と題して、2018年当時の機械翻訳システムが内部でどのような処理を行っているのかを体験してもらいました。  
   高校生が使用したコードはGoogle Colaboratory上で公開されています。[[Code](https://goo.gl/KmQFLM)]
+
+---
+
+### See also
+- [旧website](https://cl.sd.tmu.ac.jp/~yamagishi/)
