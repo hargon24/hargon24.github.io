@@ -31,7 +31,7 @@ All papers are written in **Japanese** and **non peer-reviewed**.
 9. 勝又智, 松村雪桜, 山岸駿秀, 小町守. **ニューラル日英翻訳におけるRNNモデルとCNNモデルの出力分析**. NLP若手の会（YANS）第12回シンポジウム. September 4, 2017.
 10. 黒澤道希, 山岸駿秀, 松村雪桜, 小町守. **活用情報を用いた日英ニューラル機械翻訳**. NLP若手の会（YANS）第12回シンポジウム. September 4, 2017.<font color="Red">（奨励賞受賞）</font>
 11. 嶋中宏希, 山岸駿秀, 松村雪桜, 小町守. **クロスリンガルな単語分散表現を用いた機械翻訳自動評価手法の検討**. NLP若手の会（YANS）第12回シンポジウム. September 3, 2017. 
-12. 山岸駿秀, 叶内晨, 佐藤貴之, 小町守. **ニューラル日英翻訳における出力文の態制御**. 言語処理学会第23回年次大会, pp.1065-1068. March 16, 2017. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P20-1.pdf)] 
+12. 山岸駿秀, 叶内晨, 佐藤貴之, 小町守. **ニューラル日英翻訳における出力文の態制御**. 言語処理学会第23回年次大会, pp.1065-1068. March 16, 2017. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P20-1.pdf)] [[Poster](https://hargon24.github.io/document/nlp2017_poster.pdf)] 
 13. 山岸駿秀, 佐藤貴之, 叶内晨, 小町守. **ニューラル日英翻訳における態の制御**. NLP若手の会（YANS）第11回シンポジウム. August 2016. [[Poster](https://hargon24.github.io/document/yans2016_poster.pdf)]
 
 Thesis
