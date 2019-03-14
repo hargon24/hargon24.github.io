@@ -12,9 +12,9 @@ International Conference
 2. Michiki Kurosawa, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Japanese Predicate Conjugation for Neural Machine Translation**. In Proceedings of NAACL 2018 Student Research Workshop, pp.100-105. New Orleans, Louisiana, USA. June 2, 2018.  
    Acceptance Rate: 39.0% [[Paper](https://aclanthology.coli.uni-saarland.de/papers/N18-4014/n18-4014)] [[arXiv](https://arxiv.org/abs/1805.10047)]
 3. Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato, Mamoru Komachi. **Improving Japanese-to-English Neural Machine Translation by Voice Prediction**. In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP 2017), pp.277-282. Taipei, Taiwan. November 28, 2017.  
-   Acceptance Rate: 31.3% [[Paper](https://aclanthology.coli.uni-saarland.de/papers/I17-2047/i17-2047)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)]
+   Acceptance Rate: 31.3% [[Paper](https://aclanthology.coli.uni-saarland.de/papers/I17-2047/i17-2047)] [[Poster](https://hargon24.github.io/document/ijcnlp2017_poster.pdf)]
 4. Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato and Mamoru Komachi. **Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation**. In Proceedings of The 3rd Workshop on Asian Translation (WAT): System description papers, pp.203-210. Osaka, Japan, December 2016.  
-   Non peer-reviewed. [[Paper](https://aclanthology.coli.uni-saarland.de/papers/W16-4620/w16-4620)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)]
+   Non peer-reviewed. [[Paper](https://aclanthology.coli.uni-saarland.de/papers/W16-4620/w16-4620)] [[Poster](https://hargon24.github.io/document/wat2016_poster.pdf)]
 
 
 Domestic Conference
