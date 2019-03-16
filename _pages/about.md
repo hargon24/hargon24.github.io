@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# What's new  
-- 2019/03/16: 共著に入っている論文「Multimodal Machine Translation with Embedding Prediction」がNAACL Student Research Workshop 2019 に採択されました。
+# News  
+- 2019/03/16: 共著の論文「Multimodal Machine Translation with Embedding Prediction」がNAACL Student Research Workshop 2019 に採択されました。
 - 2019/03/15: 言語処理学会第25回年次大会で発表しました。[[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)]
 
 
