@@ -18,7 +18,7 @@ E-mail: yamagishi-hayahide at ed.tmu.ac.jp
 
 Education
 ======
-- M.E., March 2019 (Expected)  
+- M.E., March 2019  
   Graduate School of System Design, Tokyo Metropolitan University  
   Supervisor: Mamoru Komachi
 - B.E., March 2017  

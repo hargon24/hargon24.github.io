@@ -7,13 +7,14 @@ author_profile: true
 
 International Conference
 ======
-1. Satoru Katsumata, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Model**. In Proceedings of ACL 2018 Student Research Workshop, pp.112-119. Melbourne, Australia. July 17, 2018.  
+1. Tosho Hirasawa, Hayahide Yamagishi, Yukio Matsumura, Mamoru Komachi. **Multimodal Machine Translation with Embedding Prediction**. In Proceedings of NAACL 2019 Student Research Workshop. Minneapolis, USA. June, 2019. (To appear)
+2. Satoru Katsumata, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Model**. In Proceedings of ACL 2018 Student Research Workshop, pp.112-119. Melbourne, Australia. July 17, 2018.  
    Acceptance Rate: 40.0% [[Paper](https://aclanthology.coli.uni-saarland.de/papers/N18-4014/n18-4014)] [[arXiv](https://arxiv.org/abs/1805.11189)] [[Code](https://github.com/Katsumata420/HITS_Ranking)] 
-2. Michiki Kurosawa, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Japanese Predicate Conjugation for Neural Machine Translation**. In Proceedings of NAACL 2018 Student Research Workshop, pp.100-105. New Orleans, Louisiana, USA. June 2, 2018.  
+3. Michiki Kurosawa, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Japanese Predicate Conjugation for Neural Machine Translation**. In Proceedings of NAACL 2018 Student Research Workshop, pp.100-105. New Orleans, Louisiana, USA. June 2, 2018.  
    Acceptance Rate: 39.0% [[Paper](https://aclanthology.coli.uni-saarland.de/papers/N18-4014/n18-4014)] [[arXiv](https://arxiv.org/abs/1805.10047)]
-3. Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato, Mamoru Komachi. **Improving Japanese-to-English Neural Machine Translation by Voice Prediction**. In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP 2017), pp.277-282. Taipei, Taiwan. November 28, 2017.  
+4. Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato, Mamoru Komachi. **Improving Japanese-to-English Neural Machine Translation by Voice Prediction**. In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP 2017), pp.277-282. Taipei, Taiwan. November 28, 2017.  
    Acceptance Rate: 31.3% [[Paper](https://aclanthology.coli.uni-saarland.de/papers/I17-2047/i17-2047)] [[Poster](https://hargon24.github.io/document/ijcnlp2017_poster.pdf)]
-4. Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato and Mamoru Komachi. **Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation**. In Proceedings of The 3rd Workshop on Asian Translation (WAT): System description papers, pp.203-210. Osaka, Japan, December 2016.  
+5. Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato and Mamoru Komachi. **Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation**. In Proceedings of The 3rd Workshop on Asian Translation (WAT): System description papers, pp.203-210. Osaka, Japan, December 2016.  
    Non peer-reviewed. [[Paper](https://aclanthology.coli.uni-saarland.de/papers/W16-4620/w16-4620)] [[Poster](https://hargon24.github.io/document/wat2016_poster.pdf)]
 
 
