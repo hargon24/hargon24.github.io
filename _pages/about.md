@@ -10,8 +10,9 @@ redirect_from:
 
 # News  
 - 2019/03/16: 共著の論文「Multimodal Machine Translation with Embedding Prediction」がNAACL Student Research Workshop 2019 に採択されました。
+  - 2019/04/02: arXivで公開しました。[[Paper](https://arxiv.org/abs/1904.00639)]
 - 2019/03/15: 言語処理学会第25回年次大会で発表しました。[[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-23.pdf)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)] 
-  - 使用したプログラムを公開しました。 [[Code](https://github.com/hargon24/Context_aware_NMT)]
+  - 2019/03/28: 使用したプログラムを公開しました。 [[Code](https://github.com/hargon24/Context_aware_NMT)]
 
 
 # About me
