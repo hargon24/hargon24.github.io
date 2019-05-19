@@ -9,17 +9,16 @@ redirect_from:
 ---
 
 # News  
-- 2019/03/16: 共著の論文「Multimodal Machine Translation with Embedding Prediction」がNAACL Student Research Workshop 2019 に採択されました。
+- 2019/04/01: 就職しました。  
+- 2019/03/16: 共著の論文「Multimodal Machine Translation with Embedding Prediction」が NAACL Student Research Workshop 2019 に採択されました。
   - 2019/04/02: arXivで公開しました。[[Paper](https://arxiv.org/abs/1904.00639)]
 - 2019/03/15: 言語処理学会第25回年次大会で発表しました。[[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-23.pdf)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)] 
   - 2019/03/28: 使用したプログラムを公開しました。 [[Code](https://github.com/hargon24/Context_aware_NMT)]
 
 
 # About me
-山岸駿秀（Hayahide YAMAGISHI）  
-首都大学東京 システムデザイン研究科 情報通信システム学域 博士前期課程 2年  
-自然言語処理研究室（小町研究室）所属  
-E-mail: yamagishi-hayahide at ed.tmu.ac.jp
+山岸駿秀（Hayahide YAMAGISHI）    
+E-mail: yamagishi.hayahide at gmail.com
 
 ---
 
