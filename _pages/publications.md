@@ -7,7 +7,7 @@ author_profile: true
 
 International Conference
 ======
-1. Tosho Hirasawa, Hayahide Yamagishi, Yukio Matsumura, Mamoru Komachi. **Multimodal Machine Translation with Embedding Prediction**. In Proceedings of NAACL 2019 Student Research Workshop. Minneapolis, USA. June, 2019. (To appear) [[arXiv](https://arxiv.org/abs/1904.00639)]
+1. Tosho Hirasawa, Hayahide Yamagishi, Yukio Matsumura, Mamoru Komachi. **Multimodal Machine Translation with Embedding Prediction**. In Proceedings of NAACL 2019 Student Research Workshop, pp.86-91. Minneapolis, USA, June 4, 2019. [[Paper](https://aclweb.org/anthology/papers/N/N19/N19-3012/)] [[arXiv](https://arxiv.org/abs/1904.00639)]
 2. Satoru Katsumata, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Model**. In Proceedings of ACL 2018 Student Research Workshop, pp.112-119. Melbourne, Australia. July 17, 2018.  
    Acceptance Rate: 40.0% [[Paper](https://aclanthology.coli.uni-saarland.de/papers/N18-4014/n18-4014)] [[arXiv](https://arxiv.org/abs/1805.11189)] [[Code](https://github.com/Katsumata420/HITS_Ranking)] 
 3. Michiki Kurosawa, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Japanese Predicate Conjugation for Neural Machine Translation**. In Proceedings of NAACL 2018 Student Research Workshop, pp.100-105. New Orleans, Louisiana, USA. June 2, 2018.  
@@ -21,7 +21,7 @@ International Conference
 Domestic Conference
 ======
 All papers are written in **Japanese** and **non peer-reviewed**.
-1. 本間広樹, 山岸駿秀, 松村雪桜, 小町守. **ニューラル機械翻訳におけるコーパスフィルタリングに関する固有表現に注目した分析**. 2019年度人工知能学会全国大会.（発表予定）
+1. 本間広樹, 山岸駿秀, 松村雪桜, 小町守. **ニューラル機械翻訳におけるコーパスフィルタリングに関する固有表現に注目した分析**. 2019年度人工知能学会全国大会, June 7, 2019. [[Paper](https://confit.atlas.jp/guide/event/jsai2019/subject/4Rin1-06/advanced)]
 2. 平澤寅庄, 松村雪桜, 山岸駿秀, 小町守. **事前学習した単語分散表現を利用したマルチモーダル機械翻訳**. 言語処理学会第25回年次大会, pp.1121-1124. March 15, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-22.pdf)]
 3. 吉村綾馬, 松村雪桜, 山岸駿秀, 小町守. **機械翻訳の自動評価のための擬似参照訳作成**. 言語処理学会第25回年次大会, pp.1093-1096. March 15, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-15.pdf)]
 4. 山岸駿秀 and 小町守. **目的言語側の文間文脈を考慮した文脈つきニューラル機械翻訳**. 言語処理学会第25回年次大会, pp.394-397. March 14, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-23.pdf)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)] [[Code](https://github.com/hargon24/Context_aware_NMT)]

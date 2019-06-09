@@ -12,6 +12,7 @@ redirect_from:
 About me
 ======
 Hayahide YAMAGISHI  
+engaged in R&D work.
 E-mail: yamagishi.hayahide at gmail.com
 
 Education

@@ -17,7 +17,8 @@ redirect_from:
 
 
 # About me
-山岸駿秀（Hayahide YAMAGISHI）    
+山岸駿秀（Hayahide YAMAGISHI）  
+研究開発職になるべく研修中
 E-mail: yamagishi.hayahide at gmail.com
 
 ---
