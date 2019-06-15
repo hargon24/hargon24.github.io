@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # News  
+- 2019/06/08: 後輩の吉村くんが WMT の Metric task に参加しました。内容については「Filtering Pseudo-References by Paraphrasing for Automatic Evaluation of Machine Translation」というタイトルの論文で発表予定です。
 - 2019/04/01: 就職しました。  
 - 2019/03/16: 共著の論文「Multimodal Machine Translation with Embedding Prediction」が NAACL Student Research Workshop 2019 に採択されました。
   - 2019/04/02: arXivで公開しました。[[Paper](https://arxiv.org/abs/1904.00639)]
