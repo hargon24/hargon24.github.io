@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 # News  
-- 2019/06/08: 後輩の吉村くんが WMT の Metric task に参加しました。内容については「Filtering Pseudo-References by Paraphrasing for Automatic Evaluation of Machine Translation」というタイトルの論文で発表予定です。
+- 2019/08/11: 主著の論文「Improving Context-aware Neural Machine Translation with Target-side Context」が PACLING 2019 に採択されました。
+  - 2019/09/04: arXiv で公開しました。[[Paper](https://arxiv.org/abs/1909.00531)]
 - 2019/04/01: 就職しました。  
-- 2019/03/16: 共著の論文「Multimodal Machine Translation with Embedding Prediction」が NAACL Student Research Workshop 2019 に採択されました。
-  - 2019/04/02: arXivで公開しました。[[Paper](https://arxiv.org/abs/1904.00639)]
 - 2019/03/15: 言語処理学会第25回年次大会で発表しました。[[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-23.pdf)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)] 
   - 2019/03/28: 使用したプログラムを公開しました。 [[Code](https://github.com/hargon24/Context_aware_NMT)]
 
