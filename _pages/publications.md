@@ -7,7 +7,7 @@ author_profile: true
 
 International Conference
 ======
-1. Hayahide Yamagishi and Mamoru Komachi. **Improving Context-aware Neural Machine Translation with Target-side Context**. 16th International Conference on the Pacific Association for Computational Linguistics (PACLING 2019). October 11-13, 2019. [[arXiv](https://arxiv.org/abs/1909.00531)]
+1. Hayahide Yamagishi and Mamoru Komachi. **Improving Context-aware Neural Machine Translation with Target-side Context**. 16th International Conference on the Pacific Association for Computational Linguistics (PACLING 2019). October 11-13, 2019. [[arXiv](https://arxiv.org/abs/1909.00531)] [[Slide](https://hargon24.github.io/document/pacling2019_slide.pdf)] [[SlideShare](https://www.slideshare.net/HayahideYamagishi/pacling2019-improving-contextaware-neural-machine-translation-with-targetside-context-181157007)]
 2. Ryoma Yoshimura, Hiroki Shimanaka, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Filtering Pseudo-References by Paraphrasing for Automatic Evaluation of Machine Translation**. In Fourth Conference on Machine Translation (WMT19) Shared Task: Metrics. August 1-2, 2019.
 3. Tosho Hirasawa, Hayahide Yamagishi, Yukio Matsumura and Mamoru Komachi. **Multimodal Machine Translation with Embedding Prediction**. In Proceedings of NAACL 2019 Student Research Workshop, pp.86-91. Minneapolis, USA, June 4, 2019. [[Paper](https://aclweb.org/anthology/papers/N/N19/N19-3012/)] [[arXiv](https://arxiv.org/abs/1904.00639)] [[Code](https://github.com/toshohirasawa/nmtpytorch-emb-pred)]  
 4. Satoru Katsumata, Yukio Matsumura, Hayahide Yamagishi and Mamoru Komachi. **Graph-based Filtering of Out-of-Vocabulary Words for Encoder-Decoder Model**. In Proceedings of ACL 2018 Student Research Workshop, pp.112-119. Melbourne, Australia. July 17, 2018.  
@@ -40,6 +40,6 @@ All papers are written in **Japanese** and **non peer-reviewed**.
 Thesis
 ======
 - 修士論文（Master's Thesis）
-  - 目的言語の文書文脈を用いたニューラル機械翻訳  
+  - 目的言語の文書文脈を用いたニューラル機械翻訳 [[Paper](https://hargon24.github.io/document/mthesis.pdf)] [[Slide](https://www.slideshare.net/HayahideYamagishi/ss-181147693)]
   （Neural Machine Translation with Target-side Context）
 
