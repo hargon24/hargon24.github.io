@@ -40,6 +40,8 @@ All papers are written in **Japanese** and **non peer-reviewed**.
 Thesis
 ======
 - 修士論文（Master's Thesis）
-  - 目的言語の文書文脈を用いたニューラル機械翻訳 [[Paper](https://hargon24.github.io/document/mthesis.pdf)] [[Slide](https://www.slideshare.net/HayahideYamagishi/ss-181147693)]  
-  （Neural Machine Translation with Target-side Context）
+  - 目的言語の文書文脈を用いたニューラル機械翻訳（Neural Machine Translation with Target-side Context）
+  - [[Paper](https://hargon24.github.io/document/mthesis.pdf)]
+  - [[Slide](https://www.slideshare.net/HayahideYamagishi/ss-181147693)]
+ 
 
