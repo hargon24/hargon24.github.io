@@ -33,7 +33,6 @@ E-mail: yamagishi.hayahide at gmail.com
 
 # Research Interests
 - 自然言語処理
-- 機械翻訳
 - 機械学習 / 深層学習
 
 ---
@@ -41,9 +40,9 @@ E-mail: yamagishi.hayahide at gmail.com
 # Skills
 ### 開発
 - Python3.x
-  - Chainer, numpy
+  - PyTorch, Chainer, numpy
 - ubuntu Linux
-- vim 
+- VSCode
   
 ### 言語
 - 日本語（母語）
@@ -52,7 +51,7 @@ E-mail: yamagishi.hayahide at gmail.com
 ---
 
 # Activities
-### Teaching Assistant
+## Teaching Assistant
 小町研究室の新配属者向けに開かれた勉強会の指導担当をしました。
 - 2018/04 - 2018/06: 深層学習の基礎勉強会  
   NLPでよく使われる深層学習の手法について、『深層学習による自然言語処理』という本の輪読を通して指導しました。
@@ -61,7 +60,7 @@ E-mail: yamagishi.hayahide at gmail.com
   [言語処理100本ノック](http://www.cl.ecei.tohoku.ac.jp/nlp100/)という教材を用いました。  
   Pythonを用いたプログラミングを行い、私も含めた参加者のコードは全て公開しました。[[Code](https://github.com/tmu-nlp/100knock2017)]  
 
-### Research Assistant  
+## Research Assistant  
 小町研究室の新配属者のメンターとなって研究補佐にあたりました。
 - 2018年度
   - [平澤寅庄](http://cl.sd.tmu.ac.jp/~tosho/)
@@ -72,20 +71,24 @@ E-mail: yamagishi.hayahide at gmail.com
   - [黒澤道希](http://cl.sd.tmu.ac.jp/~kurosawa)
   - [嶋中宏希](http://cl.sd.tmu.ac.jp/~shimanaka/)
 
-### Talk
+## Talk
 1. 2018/12/14: @NICT グローバルコミュニケーション開発推進協議会
 2. 2018/10/12: @AAMT/Japio特許翻訳研究会
 3. 2017/10/21: @関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
 
-### Internship
+## Internship
 - 2017/09: [株式会社みらい翻訳](https://miraitranslate.com/)  
   ニューラル機械翻訳の研究開発にあたりました。
 
-### Events
+## Award
+- 2019/10: Best Student Paper of PACLING2019
+
+## Events
 - 2018/08/04 - 06: 理数研究ラボ（東京都教育委員会主催）  
   高校生に大学での研究活動や研究室生活を体験してもらうイベントでした。  
   小町研究室では、「ニューラル機械翻訳の研究」と題して、2018年当時の機械翻訳システムが内部でどのような処理を行っているのかを体験してもらいました。  
   高校生が使用したコードはGoogle Colaboratory上で公開されています。[[Code](https://goo.gl/KmQFLM)]
+
 
 ---
 

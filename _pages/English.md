@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 Hayahide YAMAGISHI  
-engaged in R&D work.
+engaged in R&D work.  
 E-mail: yamagishi.hayahide at gmail.com
 
 Education
@@ -28,7 +28,6 @@ Education
 Research Interests
 ======
 - Natural Language Processing
-- Machine Translation
 - Machine Learing / Deep Learning
 
 
@@ -64,3 +63,7 @@ Mentor for newcomers in Komachi Lab.
 
 ## Internship
 - 2017/09: [Mirai Translate Inc.](https://miraitranslate.com/en)  
+
+## Award
+- 2019/10: <font color=red>Best Student Paper</font> of PACLING 2019
+  - Improving Context-aware Neural Machine Translation with Target-side Context
