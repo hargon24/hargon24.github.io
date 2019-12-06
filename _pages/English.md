@@ -65,5 +65,5 @@ Mentor for newcomers in Komachi Lab.
 - 2017/09: [Mirai Translate Inc.](https://miraitranslate.com/en)  
 
 ## Award
-- 2019/10: <font color=red>Best Student Paper</font> of PACLING 2019
+- 2019/10: **Best Student Paper** of PACLING 2019
   - Improving Context-aware Neural Machine Translation with Target-side Context
