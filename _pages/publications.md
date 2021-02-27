@@ -24,19 +24,20 @@ International Conference
 Domestic Conference
 ======
 All papers are written in **Japanese** and **non peer-reviewed**.
-1. 本間広樹, 山岸駿秀, 松村雪桜, 小町守. **ニューラル機械翻訳におけるコーパスフィルタリングに関する固有表現に注目した分析**. 2019年度人工知能学会全国大会, June 7, 2019. [[Paper](https://confit.atlas.jp/guide/event/jsai2019/subject/4Rin1-06/advanced)]
-2. 平澤寅庄, 松村雪桜, 山岸駿秀, 小町守. **事前学習した単語分散表現を利用したマルチモーダル機械翻訳**. 言語処理学会第25回年次大会, pp.1121-1124. March 15, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-22.pdf)]
-3. 吉村綾馬, 松村雪桜, 山岸駿秀, 小町守. **機械翻訳の自動評価のための擬似参照訳作成**. 言語処理学会第25回年次大会, pp.1093-1096. March 15, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-15.pdf)]
-4. 山岸駿秀 and 小町守. **目的言語側の文間文脈を考慮した文脈つきニューラル機械翻訳**. 言語処理学会第25回年次大会, pp.394-397. March 14, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-23.pdf)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)] [[Code](https://github.com/hargon24/Context_aware_NMT)]
-5. 平澤寅庄, 松村雪桜, 山岸駿秀, 小町守. **画像から抽出した複数種の特徴量を組み込んだニューラル機械翻訳の検討**. NLP若手の会第13回シンポジウム. August 29, 2018.
-6. 吉村綾馬, 松村雪桜, 山岸駿秀, 小町守. **機械翻訳の自動評価のためのN-bestを用いたマルチリファレンス作成手法の提案**. NLP若手の会第13回シンポジウム. August 27, 2018.
-7. 勝又智, 松村雪桜, 山岸駿秀, 小町守. **ニューラル機械翻訳における共起情報を考慮した語彙選択**. 言語処理学会第24回年次大会, pp.1058-1061. March 15, 2018. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P10-18.pdf)]
-8. 黒澤道希, 松村雪桜, 山岸駿秀, 小町守. **述語の活用情報を用いたニューラル日英翻訳**. 言語処理学会第24回年次大会, pp.813-816. March 14, 2018. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P7-15.pdf)]
-9. 勝又智, 松村雪桜, 山岸駿秀, 小町守. **ニューラル日英翻訳におけるRNNモデルとCNNモデルの出力分析**. NLP若手の会（YANS）第12回シンポジウム. September 4, 2017.
-10. 黒澤道希, 山岸駿秀, 松村雪桜, 小町守. **活用情報を用いた日英ニューラル機械翻訳**. NLP若手の会（YANS）第12回シンポジウム. September 4, 2017.<font color="Red">（奨励賞受賞）</font>
-11. 嶋中宏希, 山岸駿秀, 松村雪桜, 小町守. **クロスリンガルな単語分散表現を用いた機械翻訳自動評価手法の検討**. NLP若手の会（YANS）第12回シンポジウム. September 3, 2017. 
-12. 山岸駿秀, 叶内晨, 佐藤貴之, 小町守. **ニューラル日英翻訳における出力文の態制御**. 言語処理学会第23回年次大会, pp.1065-1068. March 16, 2017. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P20-1.pdf)] [[Poster](https://hargon24.github.io/document/nlp2017_poster.pdf)] 
-13. 山岸駿秀, 佐藤貴之, 叶内晨, 小町守. **ニューラル日英翻訳における態の制御**. NLP若手の会（YANS）第11回シンポジウム. August 2016. [[Poster](https://hargon24.github.io/document/yans2016_poster.pdf)]
+1. 山岸駿秀, 鈴木貴文, 稲木誓哉. **Wikipedia記事間の関係を考慮したTriplet Networkに基づくBERTのFine-tuning**. 2020年度人工知能学会全国大会, June 11, 2020. [[Paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Rin476/_article/-char/ja/)][[Link](https://confit.atlas.jp/guide/event/jsai2020/subject/3Rin4-76/advanced)]
+2. 本間広樹, 山岸駿秀, 松村雪桜, 小町守. **ニューラル機械翻訳におけるコーパスフィルタリングに関する固有表現に注目した分析**. 2019年度人工知能学会全国大会, June 7, 2019. [[Paper](https://confit.atlas.jp/guide/event/jsai2019/subject/4Rin1-06/advanced)]
+3. 平澤寅庄, 松村雪桜, 山岸駿秀, 小町守. **事前学習した単語分散表現を利用したマルチモーダル機械翻訳**. 言語処理学会第25回年次大会, pp.1121-1124. March 15, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-22.pdf)]
+4. 吉村綾馬, 松村雪桜, 山岸駿秀, 小町守. **機械翻訳の自動評価のための擬似参照訳作成**. 言語処理学会第25回年次大会, pp.1093-1096. March 15, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-15.pdf)]
+5. 山岸駿秀 and 小町守. **目的言語側の文間文脈を考慮した文脈つきニューラル機械翻訳**. 言語処理学会第25回年次大会, pp.394-397. March 14, 2019. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-23.pdf)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)] [[Code](https://github.com/hargon24/Context_aware_NMT)]
+6. 平澤寅庄, 松村雪桜, 山岸駿秀, 小町守. **画像から抽出した複数種の特徴量を組み込んだニューラル機械翻訳の検討**. NLP若手の会第13回シンポジウム. August 29, 2018.
+7. 吉村綾馬, 松村雪桜, 山岸駿秀, 小町守. **機械翻訳の自動評価のためのN-bestを用いたマルチリファレンス作成手法の提案**. NLP若手の会第13回シンポジウム. August 27, 2018.
+8. 勝又智, 松村雪桜, 山岸駿秀, 小町守. **ニューラル機械翻訳における共起情報を考慮した語彙選択**. 言語処理学会第24回年次大会, pp.1058-1061. March 15, 2018. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P10-18.pdf)]
+9. 黒澤道希, 松村雪桜, 山岸駿秀, 小町守. **述語の活用情報を用いたニューラル日英翻訳**. 言語処理学会第24回年次大会, pp.813-816. March 14, 2018. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P7-15.pdf)]
+10. 勝又智, 松村雪桜, 山岸駿秀, 小町守. **ニューラル日英翻訳におけるRNNモデルとCNNモデルの出力分析**. NLP若手の会（YANS）第12回シンポジウム. September 4, 2017.
+11. 黒澤道希, 山岸駿秀, 松村雪桜, 小町守. **活用情報を用いた日英ニューラル機械翻訳**. NLP若手の会（YANS）第12回シンポジウム. September 4, 2017.<font color="Red">（奨励賞受賞）</font>
+12. 嶋中宏希, 山岸駿秀, 松村雪桜, 小町守. **クロスリンガルな単語分散表現を用いた機械翻訳自動評価手法の検討**. NLP若手の会（YANS）第12回シンポジウム. September 3, 2017. 
+13. 山岸駿秀, 叶内晨, 佐藤貴之, 小町守. **ニューラル日英翻訳における出力文の態制御**. 言語処理学会第23回年次大会, pp.1065-1068. March 16, 2017. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P20-1.pdf)] [[Poster](https://hargon24.github.io/document/nlp2017_poster.pdf)] 
+14. 山岸駿秀, 佐藤貴之, 叶内晨, 小町守. **ニューラル日英翻訳における態の制御**. NLP若手の会（YANS）第11回シンポジウム. August 2016. [[Poster](https://hargon24.github.io/document/yans2016_poster.pdf)]
 
 Thesis
 ======
@@ -45,4 +46,6 @@ Thesis
   - [[Paper](https://hargon24.github.io/document/mthesis.pdf)]
   - [[Slide](https://www.slideshare.net/HayahideYamagishi/ss-181147693)]
  
-
+Patent
+======
+- 2021年2月現在、日米それぞれ2件の特許を出願中（As of 02 Feb., two patents have been pending.）

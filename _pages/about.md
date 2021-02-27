@@ -8,18 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# News  
-- 2019/08/11: 主著の論文「Improving Context-aware Neural Machine Translation with Target-side Context」が PACLING 2019 に採択されました。
-  - 2019/09/04: arXiv で公開しました。[[Paper](https://arxiv.org/abs/1909.00531)]
-  - 2019/10/14: 発表を行いました。この成果は**Best Student Paper**に選ばれました！ [[slide](https://www.slideshare.net/HayahideYamagishi/pacling2019-improving-contextaware-neural-machine-translation-with-targetside-context-181157007)]
-- 2019/04/01: 就職しました。  
-- 2019/03/15: 言語処理学会第25回年次大会で発表しました。[[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-23.pdf)] [[Poster](https://hargon24.github.io/document/nlp2019_poster.pdf)] 
-  - 2019/03/28: 使用したプログラムを公開しました。 [[Code](https://github.com/hargon24/Context_aware_NMT)]
-
-
 # About me
-山岸駿秀（Hayahide YAMAGISHI）  
-研究開発職になるべく研修中  
+山岸駿秀（Hayahide, YAMAGISHI）  
+自然言語処理を中心とした機械学習に関する研究開発職 @日系メーカーの研究所  
 E-mail: yamagishi.hayahide at gmail.com
 
 ---
@@ -40,8 +31,9 @@ E-mail: yamagishi.hayahide at gmail.com
 # Skills
 ### 開発
 - Python3.x
-  - PyTorch, Chainer, numpy
-- ubuntu Linux
+  - PyTorch, Transformers, numpy, pandas, scikit-learn
+  - Flask
+- ubuntu Linux, macOS
 - VSCode
   
 ### 言語
