@@ -67,9 +67,9 @@ Skills
 Experiences
 ======
 ## Work
-- 2022-04 - present: ML Engineer & Researcher @ Fintech company
-- 2019-04 - 2022-03: ML Researcher @ Manufacturing company of multifunctional printer.
-  - 2020-11 - 2022-03: IT Engineer @ Manufacturing company of camera and photofilms (as a secondee).
+- 2022-04 - present: NLP Engineer & Researcher @ Fintech company.
+- 2019-04 - 2022-03: ML Researcher @ Manufacturer of multifunctional printer.
+  - 2020-11 - 2022-03: IT Engineer @ Manufacturer of camera and film products (as a secondee).
 
 ## Internship
 - 2017-09: Mirai Translate, Inc.
