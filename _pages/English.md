@@ -67,12 +67,12 @@ Skills
 Experiences
 ======
 ## Work
-- 2022-04 - present: ML Engineer & Researcher @ MoneyForward, Inc.
-- 2019-04 - 2022-03: ML Researcher @ Fuji Xerox, Co., Ltd.
-  - 2020-11 - 2022-03: IT Engineer @ Fujifilm Corp. (as a secondee)
+- 2022-04 - present: ML Engineer & Researcher @ Fintech company
+- 2019-04 - 2022-03: ML Researcher @ Manufacturing company of multifunctional printer.
+  - 2020-11 - 2022-03: IT Engineer @ Manufacturing company of camera and photofilms (as a secondee).
 
 ## Internship
-- 2017-09: Mirai Translate Inc.
+- 2017-09: Mirai Translate, Inc.
 
 ## Award
 - 2019-10: **Best Student Paper** of PACLING 2019
