@@ -12,8 +12,8 @@ redirect_from:
 About me
 ======
 Hayahide YAMAGISHI  
-engaged in R&D work.  
-E-mail: yamagishi.hayahide at gmail.com
+Machine learning engineer & researcher @ Fintech company in Japan
+
 
 Education
 ======
@@ -33,37 +33,56 @@ Research Interests
 
 Skills
 ======
-### Development
-- Python3.x
-  - Chainer, numpy
-- ubuntu Linux, Mac OS X
-- vim
+## Machine Learning & Data Science
+- Natural Language Processing
+  - Machine translation using deep learning (RNN or Transformer)
+  - Document Searching algorithm using word embedding or bag-of-words (BERT, word2vec, TFIDF)
+  - API developping using Flask or Elasticsearch
+- Computer Vision
+  - Image processing using OpenCV
+  - Image classification using pretrained architectures like ResNet
+- Deep Learning
+  - Pytorch, Transformers
+- Others
+  - Basic data science using numpy, pandas, scikit-learn
+  - Graph processing using NetworkX
+  - Time-series log data analysis (process mining)
+
+## Development
+- Language
+  - Python3.x
+  - JavaScript (React)
+- OS: 
+  - Ubuntu Linux
+  - Mac OS X
+- Editor
+  - VSCord
+  - vim
   
-### Language
+## Language
 - Japanese（Native）
 - English（TOEIC: 800）
 
 
-Activities
+Experiences
 ======
-## Teaching Assistant
-- 2018/04 - 2018/06: Deep Learning for Natural Language Processing.
-- 2017/04 - 2017/06: Python for Natural Language Processing. [[Drill](http://www.cl.ecei.tohoku.ac.jp/nlp100/)] [[Code](https://github.com/tmu-nlp/100knock2017)]  
-
-## Research Assistant 
-Mentor for newcomers in Komachi Lab.  
-- 2018
-  - [Tosho Hirasawa](http://cl.sd.tmu.ac.jp/~tosho/)
-  - [Hiroki Homma](http://cl.sd.tmu.ac.jp/~homma/)
-  - [Ryoma Yoshimura](https://kokeman.github.io/)
-- 2017
-  - [Satoru Katsumata](http://cl.sd.tmu.ac.jp/~katsumata/)
-  - [Michiki Kurosawa](http://cl.sd.tmu.ac.jp/~kurosawa)
-  - [Hiroki Shimanaka](http://cl.sd.tmu.ac.jp/~shimanaka/)
+## Work
+- 2022-04 - present: ML Engineer & Researcher @ MoneyForward, Inc.
+- 2019-04 - 2022-03: ML Researcher @ Fuji Xerox, Co., Ltd.
+  - 2020-11 - 2022-03: IT Engineer @ Fujifilm Corp. (as a secondee)
 
 ## Internship
-- 2017/09: [Mirai Translate Inc.](https://miraitranslate.com/en)  
+- 2017-09: Mirai Translate Inc.
 
 ## Award
-- 2019/10: **Best Student Paper** of PACLING 2019
+- 2019-10: **Best Student Paper** of PACLING 2019
   - Improving Context-aware Neural Machine Translation with Target-side Context
+
+## Teaching Assistant / Research Assistant 
+- 2018-04 - 2019-03: Mentor for 2018's newcomers in Komachi Lab.
+- 2018-04 - 2018-06: Deep Learning for Natural Language Processing.
+- 2017-04 - 2018-03: Mentor for 2017's newcomers in Komachi Lab.
+- 2017-04 - 2017-06: Python for Natural Language Processing. [[Drill](http://www.cl.ecei.tohoku.ac.jp/nlp100/)] [[Code](https://github.com/tmu-nlp/100knock2017)]  
+
+
+

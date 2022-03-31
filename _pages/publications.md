@@ -48,4 +48,4 @@ Thesis
  
 Patent
 ======
-- 2021年2月現在、日米それぞれ2件の特許を出願中（As of 02 Feb., two patents have been pending.）
+- 2022年3月現在、日米それぞれ2件の特許を出願中（As of 2022 Mar, two patents have been pending.）
