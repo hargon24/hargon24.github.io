@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 Hayahide YAMAGISHI  
-Machine learning engineer & researcher @ Fintech company in Japan
+Machine learning engineer & researcher @ Money Forward, Inc.
 
 
 Education
@@ -67,7 +67,7 @@ Skills
 Experiences
 ======
 ## Work
-- 2022-04 - present: NLP Engineer & Researcher @ Fintech company.
+- 2022-04 - present: NLP Engineer & Researcher @ Money Forward, Inc (Fintech company).
 - 2019-04 - 2022-03: ML Researcher @ Manufacturer of multifunctional printer.
   - 2020-11 - 2022-03: IT Engineer @ Manufacturer of camera and film products (as a secondee).
 
