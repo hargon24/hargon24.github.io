@@ -10,9 +10,11 @@ redirect_from:
 
 # About me
 山岸駿秀（Hayahide, YAMAGISHI）  
-自然言語処理を中心とした機械学習エンジニア&リサーチャー @ マネーフォワード
-
+自然言語処理のリサーチャー at Money Forward Lab
 ---
+
+# news
+- 2023-03: 言語処理学会29回年次大会にて発表をしました。
 
 # Research Interests
 - 自然言語処理
