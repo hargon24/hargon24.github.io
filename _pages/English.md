@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 Hayahide YAMAGISHI  
-Machine learning engineer & researcher @ Money Forward, Inc.
+  - Researcher of natural language processing @ Money Forward, Inc.
 
 
 Education
@@ -30,6 +30,29 @@ Research Interests
 - Natural Language Processing
 - Machine Learing / Deep Learning
 
+Experiences
+======
+## Works
+- 2022-04 - present: NLP Engineer & Researcher @ Money Forward, Inc. (Developing Fintech SaaS)
+- 2019-04 - 2022-03: ML Researcher @ Fuji Xerox Corp. (now known as "FUJIFILM Business Innovation Corp."; Manufacturer of multifunctional printer.)
+  - 2020-11 - 2022-03: IT Engineer @ FUJIFILM Corp. (Manufacturer of camera and film products (as a secondee)).
+
+## Other Works
+- 2023-01 - 2024-12: Planning board committee @ JSAI (the Japanese Society for AI)
+- 2017-04 - 2019-03: Research Assistant @ Komachi Lab.
+- 2017-09: Mirai Translate, Inc.
+
+## Award
+- 2023-08: **Hackathon Committee's award** of Generative AI hackathon @ NLP Young Researcher's Symposium
+- 2019-10: **Best Student Paper** of PACLING 2019
+  - Improving Context-aware Neural Machine Translation with Target-side Context
+
+## Teaching Assistant / Research Assistant 
+- 2018-04 - 2019-03: Mentor for 2018's newcomers in Komachi Lab.
+- 2018-04 - 2018-06: Deep Learning for Natural Language Processing.
+- 2017-04 - 2018-03: Mentor for 2017's newcomers in Komachi Lab.
+- 2017-04 - 2017-06: Python for Natural Language Processing. [[Drill](http://www.cl.ecei.tohoku.ac.jp/nlp100/)] [[Code](https://github.com/tmu-nlp/100knock2017)]  
+
 
 Skills
 ======
@@ -46,7 +69,6 @@ Skills
 - Others
   - Basic data science using numpy, pandas, scikit-learn
   - Graph processing using NetworkX
-  - Time-series log data analysis (process mining)
 
 ## Development
 - Language
@@ -64,25 +86,7 @@ Skills
 - English（TOEIC: 800）
 
 
-Experiences
-======
-## Work
-- 2022-04 - present: NLP Engineer & Researcher @ Money Forward, Inc (Fintech company).
-- 2019-04 - 2022-03: ML Researcher @ Manufacturer of multifunctional printer.
-  - 2020-11 - 2022-03: IT Engineer @ Manufacturer of camera and film products (as a secondee).
 
-## Internship
-- 2017-09: Mirai Translate, Inc.
-
-## Award
-- 2019-10: **Best Student Paper** of PACLING 2019
-  - Improving Context-aware Neural Machine Translation with Target-side Context
-
-## Teaching Assistant / Research Assistant 
-- 2018-04 - 2019-03: Mentor for 2018's newcomers in Komachi Lab.
-- 2018-04 - 2018-06: Deep Learning for Natural Language Processing.
-- 2017-04 - 2018-03: Mentor for 2017's newcomers in Komachi Lab.
-- 2017-04 - 2017-06: Python for Natural Language Processing. [[Drill](http://www.cl.ecei.tohoku.ac.jp/nlp100/)] [[Code](https://github.com/tmu-nlp/100knock2017)]  
 
 
 
