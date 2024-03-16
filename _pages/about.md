@@ -11,6 +11,7 @@ redirect_from:
 # About me
 山岸駿秀（Hayahide, YAMAGISHI）  
 - 自然言語処理のリサーチャー @ マネーフォワード  
+- NLP若手の会 実行委員 [[site](https://yans.anlp.jp/entry/yans2024members)]
 - 人工知能学会 セミナー企画委員 [[site](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)]
 
 ---
@@ -24,10 +25,11 @@ redirect_from:
 # Experiences
 ## Works
 - 2022-04 - 現在: NLP・MLエンジニア&リサーチャー @ 株式会社マネーフォワード
-- 2019-03 - 2022-03:  NLP・ML技術のリサーチャー @ 富士ゼロックス株式会社
+- 2019-03 - 2022-03:  NLP・MLのリサーチャー @ 富士ゼロックス株式会社
   - 2020-11 - 2022-03:  ログデータ解析のシステム開発 @ 富士フイルム株式会社に出向
 
 ## Other Works
+- 2024-03 - 2024-03: 言語処理学会 YANS実行委員
 - 2023-01 - 2024-12: 人工知能学会 セミナー企画委員
 - 2017-04 - 2019-03: Research Assistant @ Komachi Lab.
 - 2017-09: インターンシップ at 株式会社みらい翻訳
@@ -43,13 +45,6 @@ redirect_from:
 ## Award
 - 2023-08: YANS2023 リーダーボードハッカソン 審査員特別賞 [[site](https://yans.anlp.jp/entry/yans2023report)]
 - 2019-10: **Best Student Paper** of PACLING2019
-  
-## Talk
-1. 2023-04-05: NLP2023参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/276611/)]
-2. 2018-12-14: NICT グローバルコミュニケーション開発推進協議会
-3. 2018-10-12: AAMT/Japio特許翻訳研究会
-4. 2017-10-21: 関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
-
 
 ---
 # Skills

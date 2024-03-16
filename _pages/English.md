@@ -15,16 +15,6 @@ Hayahide YAMAGISHI
   - Researcher of natural language processing @ Money Forward, Inc.
 
 
-Education
-======
-- M.E., March 2019  
-  Graduate School of System Design, Tokyo Metropolitan University  
-  Supervisor: Mamoru Komachi
-- B.E., March 2017  
-  Faculty of System Design, Tokyo Metropolitan University  
-  Supervisor: Mamoru Komachi
-
-
 Research Interests
 ======
 - Natural Language Processing
@@ -41,6 +31,16 @@ Experiences
 - 2023-01 - 2024-12: Planning board committee @ JSAI (the Japanese Society for AI)
 - 2017-04 - 2019-03: Research Assistant @ Komachi Lab.
 - 2017-09: Mirai Translate, Inc.
+
+
+## Education 
+- M.E., March 2019  
+  Graduate School of System Design, Tokyo Metropolitan University  
+  Supervisor: Mamoru Komachi
+- B.E., March 2017  
+  Faculty of System Design, Tokyo Metropolitan University  
+  Supervisor: Mamoru Komachi
+
 
 ## Award
 - 2023-08: **Hackathon Committee's award** of Generative AI hackathon @ NLP Young Researcher's Symposium

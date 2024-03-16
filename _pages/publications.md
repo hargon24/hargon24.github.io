@@ -47,7 +47,14 @@ Thesis
   - 目的言語の文書文脈を用いたニューラル機械翻訳（Neural Machine Translation with Target-side Context）
   - [[Paper](https://hargon24.github.io/document/mthesis.pdf)]
   - [[Slide](https://www.slideshare.net/HayahideYamagishi/ss-181147693)]
- 
+
+## Talk
+1. 2023-04-05: NLP2023参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/276611/)]
+2. 2018-12-14: NICT グローバルコミュニケーション開発推進協議会
+3. 2018-10-12: AAMT/Japio特許翻訳研究会
+4. 2017-10-21: 関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
+
+
 Patent
 ======
 - 2022年3月現在、日米それぞれ2件の特許を出願中（As of 2022 Mar, two patents have been pending.）
