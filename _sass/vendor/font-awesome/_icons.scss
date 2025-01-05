@@ -731,3 +731,8 @@
 .#{$fa-css-prefix}-google-plus-official:before { content: $fa-var-google-plus-official; }
 .#{$fa-css-prefix}-fa:before,
 .#{$fa-css-prefix}-font-awesome:before { content: $fa-var-font-awesome; }
+
+.#{$fa-css-prefix}-speaker-deck:before { content: $fa-var-speakerdeck; }
+.#{$fa-css-prefix}-note-sticky:before { content: $fa-var-note-sticky; }
+.#{$fa-css-prefix}-bluesky:before { content: $fa-var-bluesky; }
+.#{$fa-css-prefix}-pen-nib:before { content: $fa-var-hatena; }
