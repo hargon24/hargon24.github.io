@@ -86,9 +86,9 @@ author:
   bio              : "NLP Researcher"
   location         : "Tamachi, Tokyo, Japan"
   employer         : "Money Forward Inc."
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=bBWyMZ0AAAAJ"
   email            :
-  uri              : "https://note.com/hargon24"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -107,12 +107,16 @@ author:
   slideshare       : "HayahideYamagishi"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "hargon24"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  note             : "hargon24"
+  hatena           : "hargon24"
+  speakerdeck      : "hargon24"
+  bluesky          : "hargon24"
 
 
 # Reading Files

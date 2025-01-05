@@ -14,6 +14,9 @@ redirect_from:
 - NLP若手の会 実行委員 [[site](https://yans.anlp.jp/entry/yans2024members)]
 - 人工知能学会 セミナー企画委員 [[site](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)]
 
+# Topic
+- 2024-11: ブログを始めました: https://hargon24.hatenablog.com/
+
 ---
 
 # Research Interests

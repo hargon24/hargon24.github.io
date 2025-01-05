@@ -46,9 +46,7 @@
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
-      {% if author.slideshare %}
-      <li><a href="https://slideshare.net/{{ author.slideshare }}"><i class="fa fa-fw fa-slideshare" aria-hidden="true"></i> slideshare</a></li>
-      {% endif %}
+
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
@@ -66,6 +64,18 @@
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      {% endif %}
+      {% if author.hatena %}
+        <li><a href="https://{{ author.hatena }}.hatenablog.com/"><i class="fa-solid fa-pen-nib" aria-hidden="true"></i> はてなブログ</a></li>
+      {% endif %}
+      {% if author.note %}
+        <li><a href="https://note.com/{{ author.note }}"><i class="fa-regular fa-note-sticky" aria-hidden="true"></i> note</a></li>
+      {% endif %}
+      {% if author.speakerdeck %}
+        <li><a href="https://speakerdeck.com/{{ author.speakerdeck }}"><i class="fa-brands fa-speaker-deck" aria-hidden="true"></i></i> SpeakerDeck</a></li>
+      {% endif %}
+      {% if author.slideshare %}
+        <li><a href="https://slideshare.net/{{ author.slideshare }}"><i class="fa fa-fw fa-slideshare" aria-hidden="true"></i> slideshare</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -111,6 +121,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.wikipedia }}.bsky.social"><i class="fa-brands fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
       {% endif %}
     </ul>
   </div>
