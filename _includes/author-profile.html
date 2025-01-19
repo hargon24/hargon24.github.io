@@ -81,6 +81,12 @@
       {% endif %}      
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
+      {% endif %}
+      {% if author.slideshare %}
+        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa-brands fa-slideshare" aria-hidden="true"></i>SlideShare</a></li>
+      {% endif %}    
+      {% if author.speakerdeck %}
+        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa-brands fa-speaker-deck" aria-hidden="true"></i>Speaker Deck</a></li>
       {% endif %}      
 
       <!-- Font Awesome icons / Social media -->
