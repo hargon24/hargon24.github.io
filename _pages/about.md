@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: ""
-excerpt: "Hayahide Yamagishi"
+title: "Hayahide Yamagishi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +14,7 @@ redirect_from:
 - 人工知能学会 セミナー企画委員 [[site](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)]
 
 # Topic
-- 2024-11: ブログを始めました: https://hargon24.hatenablog.com/
+- 2024-11: ブログを始めました: [https://hargon24.hatenablog.com/](https://hargon24.hatenablog.com/)
 
 ---
 
