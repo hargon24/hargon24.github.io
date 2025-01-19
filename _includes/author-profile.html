@@ -36,6 +36,12 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.hatenablog %}
+        <li><a href="https://{{ author.hatenablog }}.hatenablog.com"><i class="fa-solid fa-pen-nib" aria-hidden="true"></i>  はてなブログ</a></li>
+      {% endif %} 
+      {% if author.note %}
+        <li><a href="https://note.com/{{ author.note }}"><i class="fa-regular fa-note-sticky" aria-hidden="true"></i>  note</a></li>
+      {% endif %} 
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
@@ -83,10 +89,10 @@
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}
       {% if author.slideshare %}
-        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa-brands fa-slideshare" aria-hidden="true"></i>SlideShare</a></li>
+        <li><a href="https://www.slideshare.net/{{ author.slideshare }}"><i class="fa-brands fa-slideshare" aria-hidden="true"></i>  SlideShare</a></li>
       {% endif %}    
       {% if author.speakerdeck %}
-        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa-brands fa-speaker-deck" aria-hidden="true"></i>Speaker Deck</a></li>
+        <li><a href="https://speakerdeck.com/{{ author.speakerdeck }}"><i class="fa-brands fa-speaker-deck" aria-hidden="true"></i>  Speaker Deck</a></li>
       {% endif %}      
 
       <!-- Font Awesome icons / Social media -->
