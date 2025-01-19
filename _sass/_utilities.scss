@@ -316,6 +316,24 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
+
+  .fa-slideshare,
+  .fa-slideshare-square {
+    color: $slideshare-color;
+  }
+  .fa-note-sticky,
+  .fa-note-sticky-square {
+    color: $note-color;
+  }
+  .fa-pen-nib,
+  .fa-pen-nib-square {
+    color: $hatenablog-color;
+  }
+  .fa-speaker-deck,
+  .fa-speaker-deck-square {
+    color: $speakerdeck-color;
+  }
+
 }
 
 
