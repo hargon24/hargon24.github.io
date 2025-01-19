@@ -65,20 +65,6 @@ redirect_from:
   - numpy, pandas, scikit-learn等を使った基礎的なデータ解析
   - NetworkXを用いたグラフ情報処理
 
-## 開発・使用経験
-- 言語: 
-  - Python3.x
-  - JavaScript（React）
-- OS:
-  - macOS
-  - Ubuntu Linux
-- その他:
-  - Elasticsearch
-  - Git
-- Editor
-  - Vim
-  - VSCode
-  
 ## 言語
 - 日本語（母語）
 - 英語（TOEIC: 800）
