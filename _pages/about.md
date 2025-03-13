@@ -14,6 +14,7 @@ redirect_from:
 - 人工知能学会 セミナー企画委員 [[site](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)]
 
 # Topic
+- 2025-03: 言語処理学会で発表しました。 
 - 2024-11: ブログを始めました: [https://hargon24.hatenablog.com/](https://hargon24.hatenablog.com/)
 
 ---
