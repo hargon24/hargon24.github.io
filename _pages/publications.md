@@ -42,14 +42,22 @@ All papers are written in **Japanese** and **non peer-reviewed**.
 16. 山岸駿秀, 叶内晨, 佐藤貴之, 小町守. **ニューラル日英翻訳における出力文の態制御**. 言語処理学会第23回年次大会, pp.1065-1068. March 16, 2017. [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P20-1.pdf)] [[Poster](https://hargon24.github.io/document/nlp2017_poster.pdf)] 
 17. 山岸駿秀, 佐藤貴之, 叶内晨, 小町守. **ニューラル日英翻訳における態の制御**. NLP若手の会（YANS）第11回シンポジウム. August 2016. [[Poster](https://hargon24.github.io/document/yans2016_poster.pdf)]
 
+Article
+======
+1. 企画委員会だより〔第2回〕人工知能セミナーの再興を振り返って. 人工知能, Vol. 40, No. 2, pp. 237. [[Document](https://www.jstage.jst.go.jp/article/jjsai/40/2/40_237/_article/-char/ja)]
 
 Talk
 ======
-1. 2024-09-20: Money Forward TECH DAY '24 [[site](https://techday.moneyforward-dev.jp/2024/sessions/lt-03/)]
-2. 2023-04-05: NLP2023参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/276611/)]
-3. 2018-12-14: NICT グローバルコミュニケーション開発推進協議会
-4. 2018-10-12: AAMT/Japio特許翻訳研究会
-5. 2017-10-21: 関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
+1. 2025-04-11: NLP2025参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/344276/)][[slide](https://speakerdeck.com/hargon24/nlp2025can-jia-bao-gao-hui-ltzi-liao)]
+2. 2024-09-20: Money Forward TECH DAY '24 [[site](https://techday.moneyforward-dev.jp/2024/sessions/lt-03/)]
+3. 2023-04-05: NLP2023参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/276611/)]
+4. 2018-12-14: NICT グローバルコミュニケーション開発推進協議会
+5. 2018-10-12: AAMT/Japio特許翻訳研究会
+6. 2017-10-21: 関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
+
+Patent
+======
+1. 山岸駿秀, 貞光九月. 情報処理システム及びプログラム. 特許第7653494号. (登録日: 2025-03-28)
 
 
 Thesis
