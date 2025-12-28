@@ -48,12 +48,13 @@ Article
 
 Talk
 ======
-1. 2025-04-11: NLP2025参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/344276/)][[slide](https://speakerdeck.com/hargon24/nlp2025can-jia-bao-gao-hui-ltzi-liao)]
-2. 2024-09-20: Money Forward TECH DAY '24 [[site](https://techday.moneyforward-dev.jp/2024/sessions/lt-03/)]
-3. 2023-04-05: NLP2023参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/276611/)]
-4. 2018-12-14: NICT グローバルコミュニケーション開発推進協議会
-5. 2018-10-12: AAMT/Japio特許翻訳研究会
-6. 2017-10-21: 関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
+1. 2025-11-13: 三田データ Vol.1 [[site](https://mita-data.connpass.com/event/370980/)][[slide](https://speakerdeck.com/hargon24/domeinzhi-shi-ganailing-yu-denozi-ran-yan-yu-chu-li-noshi-mefang)]
+2. 2025-04-11: NLP2025参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/344276/)][[slide](https://speakerdeck.com/hargon24/nlp2025can-jia-bao-gao-hui-ltzi-liao)]
+3. 2024-09-20: Money Forward TECH DAY '24 [[site](https://techday.moneyforward-dev.jp/2024/sessions/lt-03/)]
+4. 2023-04-05: NLP2023参加報告会 presented by Money Forward Lab [[site](https://moneyforward.connpass.com/event/276611/)]
+5. 2018-12-14: NICT グローバルコミュニケーション開発推進協議会
+6. 2018-10-12: AAMT/Japio特許翻訳研究会
+7. 2017-10-21: 関東MT勉強会 「入力文への情報の付加によるNMTの出力文の変化についてのエラー分析」 [[Slide](https://www.slideshare.net/HayahideYamagishi/nmt-81003593)]
 
 Patent
 ======
