@@ -15,7 +15,6 @@ redirect_from:
 
 # Topic
 - 2025-11: IVRyさんのイベント「[三田データ Vol.1](https://mita-data.connpass.com/event/370980/)」で登壇しました
-
 - 2025-03: 人工知能学会の学会誌「人工知能」に企画委員の感想文を寄稿しました。
   - https://www.jstage.jst.go.jp/article/jjsai/40/2/40_237/_article/-char/ja/
 - 2025-03: 言語処理学会で発表しました。 
