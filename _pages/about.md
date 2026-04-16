@@ -10,10 +10,10 @@ redirect_from:
 # About me
 山岸駿秀（Hayahide, YAMAGISHI）  
 - 自然言語処理のリサーチャー @ マネーフォワード  
-- NLP若手の会 実行委員 [[site](https://yans.anlp.jp/entry/yans2024members)]
 - 言語処理学会 言語処理技術セミナー実行委員
 
 # Topic
+- 2026-03: noteを始めました： [https://note.com/hargon524](https://note.com/hargon524)
 - 2025-11: IVRyさんのイベント「[三田データ Vol.1](https://mita-data.connpass.com/event/370980/)」で登壇しました
 - 2025-03: 人工知能学会の学会誌「人工知能」に企画委員の感想文を寄稿しました。
   - https://www.jstage.jst.go.jp/article/jjsai/40/2/40_237/_article/-char/ja/
@@ -36,7 +36,7 @@ redirect_from:
 
 ## 学会活動
 - 2025-04 - 2027-03: 言語処理学会 言語処理技術セミナー実行委員
-- 2024-03 - 2026-03: 言語処理学会 YANS実行委員
+- 2024-03 - 2026-03: 言語処理学会 YANS実行委員 [[site](https://yans.anlp.jp/entry/previous_members)]
 - 2023-01 - 2025-06: 人工知能学会 セミナー企画委員
 
 ## その他・インターンシップなど
